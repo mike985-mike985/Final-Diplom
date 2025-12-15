@@ -1,0 +1,9 @@
+# Основные зависимости
+requests
+pytest
+selenium
+webdriver-manager
+allure-pytest
+faker
+flake8
+allure-python-commons
